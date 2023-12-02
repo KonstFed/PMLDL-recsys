@@ -1,0 +1,2 @@
+https://arxiv.org/pdf/2103.00063.pdf
+https://making.lyst.com/lightfm/docs/index.html
